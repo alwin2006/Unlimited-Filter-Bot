@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name :</b> <a href=https://t.me/oru_filter_bot>STEPHEN MF FILTER BOT</a>
 
-⭕️<b>Creater :</b>   <a href=https://t.me/im_odiyan>Ramanan</a> 
+⭕️<b>Creater :</b> <a href=https://t.me/im_odiyan>Ramanan</a> 
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
